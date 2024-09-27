@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Compiled output
+dist/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Jest coverage
+coverage/
+
+# OS files
+.DS_Store
